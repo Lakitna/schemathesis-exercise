@@ -1,0 +1,7 @@
+headers = { Authorization = "Bearer super-secret" }
+
+[warnings]
+fail-on = true
+
+[cache]
+enabled = false

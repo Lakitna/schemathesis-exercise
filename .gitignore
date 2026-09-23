@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+
+# Schemathesis run artifacts (crash caches, reports, HAR files)
+.schemathesis/
+
+# Hypothesis example database (regenerated per run, also in exercise folders)
+.hypothesis/
+
+# pytest
+.pytest_cache/
+
+# Python bytecode / packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Other common tool caches
+.mypy_cache/
+.ruff_cache/
