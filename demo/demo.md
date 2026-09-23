@@ -1,9 +1,9 @@
 # Schemathesis demo
 
-1. Open folder in CLI
+1. Open demo folder in CLI
 
    ```shell
-   cd c:/code/training-contract-based-testing/schemathesis/demo
+   cd ./demo
    ```
 
    Open in vscode
